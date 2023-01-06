@@ -58,7 +58,5 @@ A thorough evaluation of the market location, target audience(demography, sex, p
 
 # REPORT
 
-![image](https://user-images.githubusercontent.com/105312829/211113330-3d17f4b9-21a4-4b21-bbaa-f22e397ad9bc.png)
-
-
+![image](https://user-images.githubusercontent.com/105312829/211115067-881f98f9-f0c5-45e8-bb08-f28ce562e99e.png)
 

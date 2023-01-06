@@ -62,6 +62,3 @@ A thorough evaluation of the market location, target audience(demography, sex, p
 
 
 
-
-
-

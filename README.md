@@ -56,7 +56,7 @@ The above image shows the top 10 countries by total sales made. The company made
 
 A thorough evaluation of the market location, target audience(demography, sex, purchasing power, income etc) and competitor should be carried out. 
 
-# REPORT
+# DASHBOARD
 
 ![image](https://user-images.githubusercontent.com/105312829/211115067-881f98f9-f0c5-45e8-bb08-f28ce562e99e.png)
 
